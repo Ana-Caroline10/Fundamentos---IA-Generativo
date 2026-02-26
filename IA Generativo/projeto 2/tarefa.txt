@@ -1,0 +1,18 @@
+# ativadade
+- transformar em algo que seja confiavel para produção
+* o que fazer 
++ criar um perser json (função que garnata que esse formato é json )
++ validação contra a lista permitida (garantir que não seja inventada uma categoria )
++ tratar o erro de json invalido
+
++ testar multiplas conexões 10 vezes 
+testar diferentes temperaturas 3 
+
+
+
+entrega: relatorio doc com o comparativo dos testes e o codigo fonte 
+
+
+implementar no validator .py 
+cada tarefa uma função diferente 
+df 
